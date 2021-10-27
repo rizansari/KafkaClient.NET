@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Rizwan Ansari</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://rizwanansari.net</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/rizansari/KafkaClient.NET</RepositoryUrl>
+    <PackageTags>Kafka client, kafka .net core</PackageTags>
+    <PackageReleaseNotes>First Version</PackageReleaseNotes>
+    <Description>KafkaClient.NET is a simple library to Produce and Consume messages easily in .NET Core applications. It uses official Confluent.Kafka client.</Description>
   </PropertyGroup>
 
   <ItemGroup>
