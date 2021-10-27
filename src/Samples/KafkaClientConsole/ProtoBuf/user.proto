@@ -1,0 +1,9 @@
+﻿syntax = "proto3";
+
+package KafkaClientConsole;
+
+message User {
+    string Name = 1;
+    int32 FavoriteNumber = 2;
+    string FavoriteColor = 3;
+}
